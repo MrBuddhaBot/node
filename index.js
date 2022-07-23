@@ -91,7 +91,7 @@ $("#charClass").text(player1.class);
 }
 
 // Design rolls to be rolled one at a time, even if multiple rolls can occur
-/*
+
 function diceRoll(amount, diceType, result) {
   for (let index = 0; index < amount; index++) {
 
